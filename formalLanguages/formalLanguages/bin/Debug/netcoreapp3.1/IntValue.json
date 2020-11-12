@@ -1,0 +1,8 @@
+{"FinalStates":[],
+"LexemeName":"IntValue",
+"Priority":3,
+"StartState":0,
+"Transitions":[
+{"Condition":"gfgfg","Next":1,"Previous":0},
+{"Condition":"gfgfg2","Next":2,"Previous":0}
+]}

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WwH43wTxVxTSwCLrqzjBrllpVYBx4IgnLwrMIq0qaAX64/HoARFg5SoYVRtrZk/qdwkyT7mBJdWxfqE6wYPK6A==",
+  "dgSpecHash": "3nLr5BCHo8Gx88gDebAfWCcGbqOXAb21ZhO0RjblN/jHCwGHQIFEeAV7D3cWa8V5u9MVjGUEPty+HiT3Q/9YsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\AFONYA\\formalLanguages\\formalLanguages\\formalLanguages\\formalLanguages.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AFONYA\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

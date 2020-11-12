@@ -1,0 +1,8 @@
+{"FinalStates":[1],
+"LexemeName":"Space",
+"Priority":0,
+"StartState":0,
+"Transitions":[
+{"Condition":" ","Next":1,"Previous":0},
+{"Condition":" ","Next":1,"Previous":1}
+]}

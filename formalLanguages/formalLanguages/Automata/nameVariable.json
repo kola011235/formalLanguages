@@ -1,0 +1,8 @@
+{"FinalStates":[1],
+"LexemeName":"NameVariable",
+"Priority":5,
+"StartState":0,
+"Transitions":[
+{"Condition":"_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ","Next":1,"Previous":0},
+{"Condition":"_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890","Next":1,"Previous":1}
+]}

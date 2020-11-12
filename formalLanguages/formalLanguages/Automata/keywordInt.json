@@ -1,0 +1,9 @@
+{"FinalStates":[3],
+"LexemeName":"KeywordInt",
+"Priority":4,
+"StartState":0,
+"Transitions":[
+{"Condition":"i","Next":1,"Previous":0},
+{"Condition":"n","Next":2,"Previous":1},
+{"Condition":"t","Next":3,"Previous":2}
+]}

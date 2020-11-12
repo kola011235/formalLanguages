@@ -1,0 +1,7 @@
+{"FinalStates":[1],
+"LexemeName":"SymbolSemicon",
+"Priority":1,
+"StartState":0,
+"Transitions":[
+{"Condition":";","Next":1,"Previous":0},
+]}

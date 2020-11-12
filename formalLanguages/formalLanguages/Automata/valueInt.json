@@ -1,0 +1,10 @@
+{"FinalStates":[2],
+"LexemeName":"ValueInt",
+"Priority":3,
+"StartState":0,
+"Transitions":[
+{"Condition":"+-","Next":1,"Previous":0},
+{"Condition":"123456789","Next":2,"Previous":1},
+{"Condition":"123456789","Next":2,"Previous":0},
+{"Condition":"1234567890","Next":2,"Previous":2},
+]}

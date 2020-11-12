@@ -1,0 +1,15 @@
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.exe
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.deps.json
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.runtimeconfig.json
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.runtimeconfig.dev.json
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.dll
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\formalLanguages.pdb
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.csprojAssemblyReference.cache
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.AssemblyInfoInputs.cache
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.AssemblyInfo.cs
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.dll
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.pdb
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.genruntimeconfig.cache
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.csproj.CoreCompileInputs.cache
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\AFONYA\formalLanguages\formalLanguages\formalLanguages\obj\Debug\netcoreapp3.1\formalLanguages.csproj.CopyComplete
